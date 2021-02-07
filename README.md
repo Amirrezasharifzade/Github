@@ -33,6 +33,7 @@
 تیم های مورد علاقم : بارسلونا و استقلال<br><br>
 فیلم مورد علاقم:  Forrest Gump<br>
   <details>
+  
     Forrest Gump(1994) <br>
     Summary:<br>
     Forrest, a man with low IQ, recounts the early years of his life<br>
