@@ -123,15 +123,7 @@
     چو حافظ در قناعت کوش و از دنیای دون بگذر<br><br>
     که یک جو منت دونان دو صد من زر نمی‌ارزد<br><br>
   </b>
-    <button style="font-size: large">
-      این غزل با صدای سالار عقیلی
-      <details>
-  <audio controls >
-    <source src="Salar%20Aghili%20-%20Saghar.mp3" type="audio/ogg">
-  </audio>
-</details>
-    </button>
-
+    
 </center>
 
   </p>
